@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XAeA9P8sfMe93X24zDUVR155qCtxv99GEop2l8UA03E=",
+  "Source": "azuredevopswebapi",
+  "BasePath": "_content/azuredevopswebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
